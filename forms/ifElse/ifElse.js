@@ -24,3 +24,4 @@ if (userState == "NE" && temperature < 32) {
 //Hello! This code appears to be working!
 
 let myName = "Steven"
+myName = "Bob"
